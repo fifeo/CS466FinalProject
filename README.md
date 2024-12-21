@@ -1,7 +1,6 @@
 # CS466FinalProject
 
-How to use:
-run - 
+# Running project
 python nussinovy.py
 
-wait to be prompted to input sequence,  input sequence , hit return
+Wait to be prompted to input sequence,  input sequence , hit return
