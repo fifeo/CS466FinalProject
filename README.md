@@ -3,4 +3,5 @@
 # Running project
 python nussinovy.py
 
-Wait to be prompted to input sequence,  input sequence , hit return
+1. Wait to be prompted to input sequence
+2. Input sequence 
