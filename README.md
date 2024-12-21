@@ -1,4 +1,5 @@
 # CS466FinalProject
 
 How to use:
-run python nussinovy.py
+run - 
+python nussinovy.py
